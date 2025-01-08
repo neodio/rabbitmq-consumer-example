@@ -1,0 +1,14 @@
+server:
+  port: 8082
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: test
+    password: test1!
+    virtual-host: test
+#    listener:
+#      direct:
+#        prefetch: 600
+#        simple:
+#          prefetch: 600
