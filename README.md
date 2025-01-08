@@ -1,4 +1,4 @@
-# rabbitmq-producer-example
+# rabbitmq-consumer-example
 - 스프링부트 rabbitMq 컨슈머 예제
 
 ## 개발 환경
